@@ -1,1 +1,2 @@
-
+## Ant Colony Optimization
+The objective of the code is to solve the Traveling Salesman Problem (TSP) using the Ant Colony Optimization (ACO), the code works from several functions in which random cities and distance between each of them are generated, and the objective is to find the best path in which the shortest possible distance is made between one city to another, the code also works based on probability since they are random numbers and the ants will move from one city to another depending on several factors such as pheromones and the distance between one city and another
